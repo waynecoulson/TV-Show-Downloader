@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+  <Series>
+    <id>164501</id>
+    <Actors>|Melissa McCarthy|Billy Gardell|Katy Mixon|Cleo King|Rondi Reed|Louis Mustillo|Swoosie Kurtz|Nyambi Nyambi|Reno Wilson|</Actors>
+    <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
+    <Airs_Time>9:30 PM</Airs_Time>
+    <ContentRating>TV-14</ContentRating>
+    <FirstAired>2010-09-20</FirstAired>
+    <Genre>|Comedy|</Genre>
+    <IMDB_ID>tt1608180</IMDB_ID>
+    <Language>en</Language>
+    <Network>CBS</Network>
+    <NetworkID></NetworkID>
+    <Overview>Set in Chicago, Illinois, the series follows two people, Mike Biggs, a police officer who wants to shed some pounds, and Molly Flynn, a fourth-grade teacher wanting to embrace her curves, who meet at an Overeaters Anonymous group and become an unlikely pair. However, they also have to deal with the comments, jokes, and criticism from Mike's fast-talking partner Carl McMillan, Molly's slim, drug addicted sister Victoria and nymphomaniac mother Joyce, and Samuel, a Senegalese waiter at the officers' favorite restaurant.</Overview>
+    <Rating>7.6</Rating>
+    <RatingCount>30</RatingCount>
+    <Runtime>30</Runtime>
+    <SeriesID>78401</SeriesID>
+    <SeriesName>Mike &amp; Molly</SeriesName>
+    <Status>Continuing</Status>
+    <added>2010-05-21 16:15:34</added>
+    <addedBy>140571</addedBy>
+    <banner>graphical/164501-g4.jpg</banner>
+    <fanart>fanart/original/164501-4.jpg</fanart>
+    <lastupdated>1351100781</lastupdated>
+    <poster>posters/164501-3.jpg</poster>
+    <zap2it_id>EP01280040</zap2it_id>
+  </Series>
+</Data>

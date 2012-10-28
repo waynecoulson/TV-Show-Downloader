@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>70768</id>
+  <Image>actors/70768.jpg</Image>
+  <Name>Miley Cyrus</Name>
+  <Role>Miley Stewart / Hannah Montana</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>70765</id>
+  <Image>actors/70765.jpg</Image>
+  <Name>Billy Ray Cyrus</Name>
+  <Role>Robby Stewart</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>70767</id>
+  <Image>actors/70767.jpg</Image>
+  <Name>Emily Osment</Name>
+  <Role>Lilly Truscott</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>70770</id>
+  <Image>actors/70770.jpg</Image>
+  <Name>Jason Earles</Name>
+  <Role>Jackson Stewart</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>70769</id>
+  <Image>actors/70769.jpg</Image>
+  <Name>Mitchel Musso</Name>
+  <Role>Oliver Oken</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>70766</id>
+  <Image></Image>
+  <Name>Moises Arias</Name>
+  <Role></Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

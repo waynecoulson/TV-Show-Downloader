@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>41814</id>
+  <Image>actors/41814.jpg</Image>
+  <Name>Trey Parker</Name>
+  <Role>Stan Marsh|Eric Cartman|Randy Marsh</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>41813</id>
+  <Image>actors/41813.jpg</Image>
+  <Name>Matt Stone</Name>
+  <Role>Kyle Broflovski|Kenny McCormick|Leopold &quot;Butters&quot; Stotch</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>41812</id>
+  <Image>actors/41812.jpg</Image>
+  <Name>Isaac Hayes</Name>
+  <Role>Chef</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>41811</id>
+  <Image>actors/41811.jpg</Image>
+  <Name>Eliza Schneider</Name>
+  <Role></Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>41810</id>
+  <Image></Image>
+  <Name>Gracie Lazar</Name>
+  <Role></Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>41809</id>
+  <Image></Image>
+  <Name>Mona Marshall</Name>
+  <Role></Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>41808</id>
+  <Image></Image>
+  <Name>Mary Kay Bergman</Name>
+  <Role></Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>
