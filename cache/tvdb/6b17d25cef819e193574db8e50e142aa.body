@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+  <Series>
+    <id>75978</id>
+    <Actors>|Seth MacFarlane|Alex Borstein|Seth Green|Lacey Chabert|Mila Kunis|Mike Henry|Adam West|</Actors>
+    <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
+    <Airs_Time>9:00 PM</Airs_Time>
+    <ContentRating>TV-14</ContentRating>
+    <FirstAired>1999-01-31</FirstAired>
+    <Genre>|Animation|Comedy|</Genre>
+    <IMDB_ID>tt0182576</IMDB_ID>
+    <Language>en</Language>
+    <Network>FOX</Network>
+    <NetworkID></NetworkID>
+    <Overview>Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.</Overview>
+    <Rating>8.7</Rating>
+    <RatingCount>385</RatingCount>
+    <Runtime>30</Runtime>
+    <SeriesID>348</SeriesID>
+    <SeriesName>Family Guy</SeriesName>
+    <Status>Continuing</Status>
+    <added></added>
+    <addedBy></addedBy>
+    <banner>graphical/75978-g.jpg</banner>
+    <fanart>fanart/original/75978-12.jpg</fanart>
+    <lastupdated>1351459600</lastupdated>
+    <poster>posters/75978-13.jpg</poster>
+    <zap2it_id>EP00296001</zap2it_id>
+  </Series>
+</Data>

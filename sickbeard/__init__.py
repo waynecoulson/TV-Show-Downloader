@@ -33,8 +33,7 @@ from sickbeard import providers, metadata
 from providers import kickass, torrentz, dtt
 from providers import ezrss, tvtorrents, btn,thepiratebay, nzbmatrix, nzbsrus, newznab, womble, newzbin, nzbs_org_old
 from sickbeard.config import CheckSection, check_setting_int, check_setting_str, ConfigMigrator
-
-from sickbeard import searchCurrent, searchBacklog, showUpdater, properFinder, autoPostProcesser, traktWatchListChecker
+from sickbeard import searchCurrent, searchBacklog, showUpdater, versionChecker, properFinder, autoPostProcesser, traktWatchListChecker
 from sickbeard import helpers, db, exceptions, show_queue, search_queue, scheduler
 from sickbeard import logger
 from sickbeard import naming
